@@ -27,7 +27,8 @@
     "start:06": "ts-node ./src/06",
     "start:07": "ts-node ./src/07",
     "start:08": "ts-node ./src/08",
-    "start:09": "ts-node ./src/09"
+    "start:09": "ts-node ./src/09",
+    "start:10": "ts-node ./src/10"
   },
   "husky": {
     "hooks": {
@@ -39,5 +40,6 @@
       "tslint --project . --fix",
       "git add"
     ]
-  }
+  },
+  "dependencies": {}
 }
