@@ -29,7 +29,8 @@
     "start:08": "ts-node ./src/08",
     "start:09": "ts-node ./src/09",
     "start:10": "ts-node ./src/10",
-    "start:11": "ts-node ./src/11"
+    "start:11": "ts-node ./src/11",
+    "start:12": "ts-node ./src/12"
   },
   "husky": {
     "hooks": {
